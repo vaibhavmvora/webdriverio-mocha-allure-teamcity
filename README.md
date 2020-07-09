@@ -1,9 +1,11 @@
+#webdriverio-mocha-allure-teamcity
+
 Simple and Ready to Use framework for UI automation using WebdriverIO, Mocha, Allure and TeamCity integration 
 
 ## Features
 - WebdriverIO v6
 - Page Object model
-- Custom Actions and Verification Keywords using Mocha
+- Custom Actions and Verification Keywords using Mocha (In Progress)
 - Allure Report
 - Screenshot capture for failing tests
 - ESLint
@@ -26,7 +28,7 @@ Simple and Ready to Use framework for UI automation using WebdriverIO, Mocha, Al
 
 ```npm run report```
 
-**Allure Report**
+## Allure Report Samples
 
 <img src="Allure_Report_1.JPG">
 
