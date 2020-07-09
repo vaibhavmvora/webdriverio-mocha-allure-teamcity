@@ -1,4 +1,4 @@
-#webdriverio-mocha-allure-teamcity
+# webdriverio-mocha-allure-teamcity
 
 Simple and Ready to Use framework for UI automation using WebdriverIO, Mocha, Allure and TeamCity integration 
 
