@@ -27,6 +27,7 @@ Simple and Ready to Use framework for UI automation using WebdriverIO, Mocha, Al
 ```npm run report```
 
 **Allure Report**
-<img src="./Allure_Report_1.jpg">
 
-<img src="./Allure_Report_2.jpg">
+<img src="Allure_Report_1.jpg">
+
+<img src="Allure_Report_2.jpg">
