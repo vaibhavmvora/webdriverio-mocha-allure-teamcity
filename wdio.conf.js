@@ -169,7 +169,7 @@ exports.config = {
       }],
         ['json',{
             outputDir: './report/json'
-        }]
+        },'teamcity'],
        // WdioTestRailReporter
     ],
 
