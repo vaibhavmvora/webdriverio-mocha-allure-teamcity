@@ -50,6 +50,7 @@
     "eslint-plugin-mocha": "^6.3.0",
     "wdio-chromedriver-service": "^5.0.2",
     "wdio-json-reporter": "^2.0.0",
+    "wdio-teamcity-reporter": "^2.2.0",
     "wdio-testrail-reporter": "^1.1.5"
   },
   "babel": {
