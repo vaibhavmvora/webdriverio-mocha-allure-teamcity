@@ -9,7 +9,7 @@ Simple and Ready to Use framework for UI automation using WebdriverIO, Mocha, Al
 - Allure Report
 - Screenshot capture for failing tests
 - ESLint
-- Integration with Team City (In Progress)
+- Integration with Team City
 
 ## How to Start
 
